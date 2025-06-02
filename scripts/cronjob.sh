@@ -1,0 +1,1 @@
+*/5 * * * * /usr/bin/python3 /home/ubuntu/scripts/alert_monitor.py >> /var/log/monitor.log 2>&1
