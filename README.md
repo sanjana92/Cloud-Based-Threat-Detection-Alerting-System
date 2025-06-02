@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud-based Threat Detection & Alerting System (CTDAS)
 
 This project simulates a real-world security detection and alerting system using AWS and Wazuh.
@@ -21,3 +22,6 @@ This project simulates a real-world security detection and alerting system using
 - Python
 - Wazuh
 - Apache
+=======
+# Cloud-Based-Threat-Detection-Alerting-System
+>>>>>>> 25b860d4aeafebbe3715c4f95f93ca86212e4886
