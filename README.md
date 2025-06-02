@@ -1,7 +1,6 @@
 # Cloud-based Threat Detection & Alerting System (CTDAS)
 
-![CTDAS Architecture](assets/ctdas-architecture.png)
-
+! ctdas-architecture.png
 
 
 This project simulates a real-world security detection and alerting system using AWS and Wazuh.
