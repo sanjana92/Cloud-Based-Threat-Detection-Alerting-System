@@ -1,6 +1,5 @@
 # Cloud-based Threat Detection & Alerting System (CTDAS)
 
-![CTDAS Architecture](assets/ctdas-architecture.png)
 
 This project simulates a real-world cloud security solution for detecting and responding to brute-force attacks using AWS infrastructure, SIEM monitoring, and automation tools. It uses Terraform for infrastructure provisioning, Python for threat detection, and AWS Lambda for automated remediation.
 
